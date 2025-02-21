@@ -22,13 +22,6 @@
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/RaAlMer?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 </p>
 
-<!-- GitHub Readme Streak Stats -->
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="RaAlMer's streak" src="http://github-readme-streak-stats.herokuapp.com?user=RaAlMer&theme=github-dark-blue&hide_border=true&date_format=j%2Fn%5B%2FY%5D"/>
-  </a>
-</p>
-
 ## 🛠️ My favorite tools
 
 ### 👨‍💻 Programming languages
